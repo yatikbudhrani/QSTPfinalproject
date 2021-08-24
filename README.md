@@ -1,5 +1,5 @@
 # MERN Marketplace 2.0
-- *Looking for the first edition code? [Check here](https://github.com/shamahoque/mern-marketplace/tree/master)*
+- *Looking for the first edition code? [Check here](https://www.google.com/)*
 
 An online marketplace application with seller accounts, product search and suggestions, shopping cart, order management, payment processing with Stripe, and live auction with Socket.io - developed using React, Node, Express and MongoDB. 
 
